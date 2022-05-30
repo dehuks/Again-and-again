@@ -1,0 +1,86 @@
+li{
+    float: left;
+    color: black;
+}
+ul{
+    list-style-type: none;
+    color: black;
+}
+#nav{
+    font-size: 20px;
+    padding: 15px;
+    color: black;
+    background-color: #5b8383;
+    text-align: center;
+}
+a{
+    color: black;
+    padding: 50px;
+    text-decoration: none;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: "Arial Black";
+    text-shadow: 8px 8px 8px grey;
+    color: black;
+    margin-bottom: 60px;
+}
+#hike{
+    padding: 5px;
+    text-align: center;
+    margin: 50px;
+    float: right;
+    border: 10px solid #868280;
+}
+h2{
+    color: darkgoldenrod;
+    text-align: center;
+}
+body{
+    background-image:url("Images/paper.jpg");
+}
+p{
+    font-size:20px;
+    font-family:"Kristen ITC";
+    text-align: center;
+    color: #ceb29c;
+}
+#formiy{
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 50px;
+    background-color: antiquewhite;
+    font-family: "Arial Black";
+    float: right;
+}
+#like{
+    padding: 15px;
+    margin-bottom: 10px;
+    float: bottom;
+}
+.container{
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    width: 200vh;
+ }
+ h4{
+     font-size: 100px;
+     color: #e8ba97;
+ }
+ button{
+     color: lavender;
+     background-color: #5b8383;
+     float: outside;
+     width: 100px;
+     height: 50px;
+ }
+ h5{
+     color: floralwhite;
+     font-size: 20px;
+ }
+ .services{
+     text-align: center;
+ }
